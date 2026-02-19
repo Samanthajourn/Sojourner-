@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fifi's Drag Race Season 4 | Sojourne News</title>
+  <title>Fifi's Drag Race Season 4 | Sojourner News</title>
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -366,7 +366,7 @@
   <!-- Header -->
   <header>
     <div class="header-container">
-      <img src="Sojourne.jpeg" alt="Sojourne News Logo" class="brand-logo">
+      <img src="Sojourne.jpeg" alt="Sojourner News Logo" class="brand-logo">
       <div class="header-actions">
         <i class="fas fa-bars menu-toggle" onclick="toggleMenu()"></i>
         <button onclick="scrollToSubscribe()">Subscribe</button>
@@ -397,13 +397,13 @@
       <span class="category-tag">Entertainment & Culture</span>
       <h1>Fifi's Drag Race Season 4: Celebration of Artistry, Inclusivity, and Fierce Self-Expression</h1>
       <div class="article-meta">
-        <span><i class="far fa-clock"></i> October 12, 2024</span> &nbsp;|&nbsp; 
+        <span><i class="far fa-clock"></i> October 21, 2025</span> &nbsp;|&nbsp; 
         <span><i class="far fa-user"></i> By Princess Louise Gonzales</span>
       </div>
     </header>
 
     <!-- Hero Image -->
-    <img src="[[https://images.unsplash.com/photo-1514525253440-b393452e8d26?auto=format&fit=crop&w=1200&q=80](https://www.bing.com/images/search?view=detailV2&ccid=9zSJh94%2b&id=DFA33D086751073EE4A75D47E58C7D83CCC0802A&thid=OIP.9zSJh94-3lvrH_tOWxS2fQHaEK&mediaurl=https%3a%2f%2fres.cloudinary.com%2fdwzhqvxaz%2ff_auto%2cq_auto%2cfl_progressive%2fv1667213565%2fTitles%2fRuPaul%27s+Drag+Race%2fRPDR-S4_Prod_1920x1080.jpg&exph=1080&expw=1920&q=Drag+Race+Season+4&FORM=IRPRST&ck=175EAC139D7C72C77F2D960350CBE7E8&selectedIndex=2&itb=0)](https://scontent-nrt6-1.xx.fbcdn.net/v/t39.30808-6/550292658_702623602837747_9037456568615651296_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeH3f_6vAWhyKAiRRULaibzmo7yfHaj_dL2jvJ8dqP90vbPv-yDBjrje8CdCPL6f0dsgjmhOlXMo1hGUhwXObsX4&_nc_ohc=IpZrS87Cv88Q7kNvwFVxTaC&_nc_oc=Adn-g31mz0_4PL6MBGz2cyFXKeUDIFgKCvdmwBpZ2PRputsgLC_wp4MHVE2tzko0rEY&_nc_zt=23&_nc_ht=scontent-nrt6-1.xx&_nc_gid=4aKF5ySh8-IEKxVzatX7Ow&oh=00_Aft90inrIv0aNCEOH5tx3cxrJiOFOdyOAv8QDpsW9CnChQ&oe=699D119B)" alt="Fifi's Drag Race Season 4" class="article-hero-img">
+    <img src="fifidragrace.jpg" alt="Fifi's Drag Race Season 4" class="article-hero-img">
 
     <!-- Article Body -->
     <article class="article-content">
@@ -433,7 +433,7 @@
 
     <!-- Newsletter -->
     <div class="newsletter-box" id="newsletter">
-      <h4>Subscribe to Sojourne News</h4>
+      <h4>Subscribe to Sojourner News</h4>
       <p>Get the latest entertainment news and updates delivered to your inbox.</p>
       <form onsubmit="handleSubscribe(event)">
         <input type="email" placeholder="Your email address" required />
@@ -473,7 +473,7 @@
       </div>
     </div>
     <div class="copyright">
-      &copy; 2026 SojourneNews. All Rights Reserved.
+      &copy; 2026 SojournerNews. All Rights Reserved.
     </div>
   </footer>
 
