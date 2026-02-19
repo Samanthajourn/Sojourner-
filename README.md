@@ -366,7 +366,7 @@
   <!-- Header -->
   <header>
     <div class="header-container">
-      <img src="Sojourne.jpeg" alt="Sojourner News Logo" class="brand-logo">
+      <img src="sojourne.jpeg" alt="Sojourner News Logo" class="brand-logo">
       <div class="header-actions">
         <i class="fas fa-bars menu-toggle" onclick="toggleMenu()"></i>
         <button onclick="scrollToSubscribe()">Subscribe</button>
